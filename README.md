@@ -1,5 +1,5 @@
 # Play Store Sentiment Analysis
-![Hugging Face] (https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png)
+![Hugging Face](https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png)
 
 This app is built using Hugging Face Transformers in the backend for Sentiment Analysis using NLP techniques. It uses Streamlit in the frontend to predict sentiments on raw text.
 
